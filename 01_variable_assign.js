@@ -1,0 +1,22 @@
+var myFullName;
+myFullName="Snehal Avatade";
+console.log(myFullName);
+myFullName="Snehal SOpan Avatade";
+console.log(myFullName);
+var myLove="I Love only JS";
+console.log(myLove);
+
+var FirstName="Snehal";
+console.log(FirstName);
+var LastName="Avatade";
+console.log(LastName);
+var age="26";
+console.log(age);
+var address="pune";
+console.log(address);
+var pincode="413110";
+console.log(pincode);
+var gender="female";
+console.log(gender);
+var is_married="yes";
+console.log(is_married);
