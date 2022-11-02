@@ -44,3 +44,4 @@ console.log(teacher.collegeDetails);
 delete teacher.certificate.CertificateInAdvProgramming;
 teacher.certificate.CertificateInCoreProgramming="B Grade";
 console.log(teacher.certificate);
+
